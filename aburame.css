@@ -15,8 +15,8 @@
 		} 
 	.ps1t sub {
 		font-family: 'Nanum Brush Script', cursive; 
-		font-size: 14px; 
-		line-height: 15px; 
+		font-size: 20px; 
+		line-height: 25px; 
 		width: 300px; 
 		text-align: center; 
 		text-transform: uppercase; 
@@ -52,7 +52,7 @@
 		overflow: hidden; 
 		background: url(https://pa1.narvii.com/6305/7f5f3221f95d04cfee71e529c99b3ae9841a13da_hq.gif); 
 		} 
-	.ps1im:hover .ps1im2{
+	.ps1im:hover {
 		top: 150px; 
 		-moz-transition-duration: 1s; 
 		-webkit-transition-duration: 1s; 
